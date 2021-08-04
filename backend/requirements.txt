@@ -1,0 +1,10 @@
+  
+asgiref==3.2.10
+certifi==2020.11.8
+cffi==1.14.4
+chardet==3.0.4
+Django==3.2.6
+django-templated-mail==1.1.1
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.7.2
+djoser==2.1.0
